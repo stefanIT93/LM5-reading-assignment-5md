@@ -20,3 +20,4 @@ How could I use pipelines as an administrator?
 I could use pipelines to filter, organize, and manage information about systems, users, services, and other administrative tasks.
 What question do I still have?
 How can I use multiple commands in a pipeline without making the command too complicated?
+
